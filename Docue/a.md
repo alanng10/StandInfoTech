@@ -22,3 +22,5 @@ The desktop environment is written in Class Lang.
 The desktop environment module list is cross platform.
 
 The desktop environment has execute certain class.
+
+Tidus is not need to be contain.
