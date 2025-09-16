@@ -14,3 +14,9 @@ Tidus has Single Lang.
 Tidus support the form factors type kind.
 
 Tidus has desktop environment that cross the form factors.
+
+The desktop environment is open source.
+
+The desktop environment is written in Class Lang.
+
+The desktop environment module list is cross platform.
