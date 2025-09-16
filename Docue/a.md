@@ -12,3 +12,5 @@ Tidus has Class Lang.
 Tidus has Single Lang.
 
 Tidus support the form factors type kind.
+
+Tidus has desktop environment that cross the form factors.
