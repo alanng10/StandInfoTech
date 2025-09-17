@@ -33,6 +33,8 @@ Tidus is pre install on stand system machine.
 
 Tidus is operating system for stand study and work.
 
+Tidus is recommend operating system.
+
 Windows operating system has Tool subsystem for Windows
 binary.
 
