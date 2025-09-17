@@ -28,3 +28,11 @@ The desktop environment has execute certain class.
 The desktop environment has Tool.
 
 The desktop environment has Module Module.
+
+Windows operating system has Tool subsystem for Windows
+binary.
+
+The subsystem is none command prompt window when the tool is launch.
+
+Termina display console for the tool when the tool is execute in
+Termina.
