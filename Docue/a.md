@@ -31,6 +31,8 @@ The desktop environment has Module Module.
 
 Tidus is pre install on stand system machine.
 
+Tidus is operating system for stand study and work.
+
 Windows operating system has Tool subsystem for Windows
 binary.
 
