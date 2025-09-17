@@ -29,6 +29,8 @@ The desktop environment has Tool.
 
 The desktop environment has Module Module.
 
+Tidus is pre install on stand system machine.
+
 Windows operating system has Tool subsystem for Windows
 binary.
 
