@@ -39,6 +39,8 @@ Tidus is operating system for stand study and work.
 
 Tidus is recommend operating system.
 
+Tidus is One Binary System.
+
 Class Lang is pre install on Windows operating system.
 
 The desktop environment module list is pre install
