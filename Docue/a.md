@@ -37,8 +37,7 @@ Tidus is operating system for stand study and work.
 
 Tidus is recommend operating system.
 
-Windows operating system has Tool subsystem for Windows
-binary.
+Windows operating system has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
 
