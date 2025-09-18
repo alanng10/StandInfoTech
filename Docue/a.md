@@ -50,6 +50,9 @@ Module module list is pre install on Windows operating system.
 
 Termina module list is pre install on Windows operating system.
 
+The desktop environment module list is recommend module list for
+Windows operating system.
+
 Windows operating system has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
