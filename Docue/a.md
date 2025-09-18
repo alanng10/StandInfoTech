@@ -37,6 +37,11 @@ Tidus is operating system for stand study and work.
 
 Tidus is recommend operating system.
 
+Windows operating system is pre install with Class Lang.
+
+Windows operating system is pre install with the desktop
+environment module list.
+
 Windows operating system has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
