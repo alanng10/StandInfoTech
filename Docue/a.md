@@ -27,9 +27,11 @@ The desktop environment has execute certain class.
 
 The desktop environment module list has execute certain class.
 
-The desktop environment has Tool.
+The desktop environment has Tool module list.
 
-The desktop environment has Module Module.
+The desktop environment has Module module list.
+
+The desktop environment has Termina module list.
 
 Tidus is pre install on stand system machine.
 
@@ -37,14 +39,16 @@ Tidus is operating system for stand study and work.
 
 Tidus is recommend operating system.
 
-Windows operating system is pre install with Class Lang.
+Class Lang is pre install on Windows operating system.
 
-Windows operating system is pre install with the desktop
-environment module list.
+The desktop environment module list is pre install
+on Windows operating system.
 
-Windows operating system is pre install with Tool.
+Tool module list is pre install on Windows operating system.
 
-Windows operating system is pre install with Module Module.
+Module module list is pre install on Windows operating system.
+
+Termina module list is pre install on Windows operating system.
 
 Windows operating system has Tool subsystem for Windows binary.
 
