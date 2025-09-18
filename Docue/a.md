@@ -42,6 +42,10 @@ Windows operating system is pre install with Class Lang.
 Windows operating system is pre install with the desktop
 environment module list.
 
+Windows operating system is pre install with Tool.
+
+Windows operating system is pre install with Module Module.
+
 Windows operating system has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
