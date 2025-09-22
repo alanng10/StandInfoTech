@@ -58,7 +58,7 @@ Windows operating system.
 The desktop environment module list is support module list for
 Windows operating system.
 
-Windows Subsystem for Linux is pre install on Windows operating
+Windows Subsystem for Linux with Ubuntu is pre install on Windows operating
 system.
 
 Windows operating system has Tool subsystem for Windows binary.
