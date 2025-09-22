@@ -9,7 +9,7 @@ mobile and serlon form factor.
 
 Tidus has Class Lang.
 
-Tidus has Single Lang.
+Tidus has Sand Lang.
 
 Tidus support the form factors type kind.
 
