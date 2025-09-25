@@ -63,6 +63,9 @@ system.
 
 The Ubuntu execution is present by default on Windows operating system.
 
+Windows base system component is place with Ubuntu Linux
+base system component.
+
 Windows operating system has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
