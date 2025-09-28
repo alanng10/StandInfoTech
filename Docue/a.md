@@ -1,19 +1,14 @@
 # Stand Info Tech
 
-stand info tech has binary system.
+stand info tech has desktop environment.
 
-The binary system is Tidus.
+The desktop environment is Tidus.
 
-Tidus is operating system that cross dentop, laptop, tablet, 
-mobile and serlon form factor.
+Tidus cross dentop, laptop, tablet, mobile and serlon form factor.
 
-Tidus has Class Lang.
-
-Tidus has Sand Lang.
+Tidus require Class Lang.
 
 Tidus support the form factors type kind.
-
-Tidus has desktop environment that cross the form factors.
 
 The desktop environment is open source.
 
