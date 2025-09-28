@@ -10,23 +10,23 @@ Tidus require Class Lang.
 
 Tidus support the form factors type kind.
 
-The desktop environment is open source.
+Tidus is open source.
 
-The desktop environment license is same as Class Lang.
+Tidus license is same as Class Lang.
 
-The desktop environment is written in Class Lang.
+Tidus is written in Class Lang.
 
-The desktop environment module list is cross platform.
+Tidus module list is cross platform.
 
-The desktop environment has execute certain class.
+Tidus has execute certain class.
 
-The desktop environment module list has execute certain class.
+Tidus module list has execute certain class.
 
-The desktop environment has Tool module list.
+Tidus has Tool module list.
 
-The desktop environment has Module module list.
+Tidus has Module module list.
 
-The desktop environment has Termina module list.
+Tidus has Termina module list.
 
 Tidus is pre install on stand system machine.
 
@@ -38,7 +38,7 @@ Tidus is One Binary System.
 
 Class Lang is pre install on Windows operating system.
 
-The desktop environment module list is pre install
+Tidus module list is pre install
 on Windows operating system.
 
 Tool module list is pre install on Windows operating system.
@@ -47,10 +47,10 @@ Module module list is pre install on Windows operating system.
 
 Termina module list is pre install on Windows operating system.
 
-The desktop environment module list is recommend module list for
+Tidus module list is recommend module list for
 Windows operating system.
 
-The desktop environment module list is support module list for
+Tidus module list is support module list for
 Windows operating system.
 
 Windows Subsystem for Linux with Ubuntu is pre install on Windows operating
