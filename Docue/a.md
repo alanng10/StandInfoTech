@@ -69,3 +69,5 @@ The subsystem is none command prompt window when the tool is launch.
 
 Termina display console for the tool when the tool is execute in
 Termina.
+
+Windows none storage write when done storage read operate.
