@@ -28,13 +28,13 @@ Tidus has Module module list.
 
 Tidus has Termina module list.
 
-Tidus is pre install on stand system machine.
+Tidus is pre install on stand operating system.
 
-Tidus is operating system for stand study and work.
+Tidus is desktop environment for stand study and work.
 
-Tidus is recommend operating system.
+Tidus is recommend desktop environment.
 
-Tidus is One Binary System.
+Tidus is One Module Environ.
 
 Class Lang is pre install on Windows operating system.
 
