@@ -1,8 +1,10 @@
 # Stand Info Tech
 
-stand info tech has desktop environment.
+stand info tech has module environ.
 
-The desktop environment is Tidus.
+The module environ is Tidus.
+
+Tidus is desktop environment.
 
 Tidus cross dentop, laptop, tablet, mobile and serlon form factor.
 
@@ -30,9 +32,9 @@ Tidus has Termina module list.
 
 Tidus is pre install on stand operating system.
 
-Tidus is desktop environment for stand study and work.
+Tidus is module environ for stand study and work.
 
-Tidus is recommend desktop environment.
+Tidus is recommend module environ.
 
 Tidus is One Module Environ.
 
