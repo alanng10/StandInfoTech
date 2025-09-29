@@ -30,6 +30,11 @@ Tidus has Module module list.
 
 Tidus has Termina module list.
 
+Tidus module list except Tool, Module module and Termina, has their module name
+that is their label name appended with "Tool" word.
+
+Tidus module list view support the form factors.
+
 Tidus is pre install on stand operating system.
 
 Tidus is module environ for stand study and work.
