@@ -77,4 +77,12 @@ Termina.
 
 Windows none storage write when done storage read operate.
 
+Class Lang is pre install on Android operating system.
+
 Tidus module list is option install on Android operating system.
+
+Tool module list is option install on Android operating system.
+
+Module module list is option install on Android operating system.
+
+Termina module list is option install on Android operating system.
