@@ -76,6 +76,8 @@ Termina.
 
 Windows none storage write when done storage read operate.
 
+Windows continue to be stand desktop operating system.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
