@@ -76,3 +76,5 @@ Termina display console for the tool when the tool is execute in
 Termina.
 
 Windows none storage write when done storage read operate.
+
+Tidus module list is option install on Android operating system.
