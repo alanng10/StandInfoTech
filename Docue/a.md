@@ -78,13 +78,17 @@ Windows none storage write when done storage read operate.
 
 Class Lang is pre install on Android operating system.
 
-Tidus module list is option install on Android operating system.
+Class Lang is recommend tech stack on Android.
 
-Tool module list is option install on Android operating system.
+Class Lang is support tech stack on Android.
 
-Module module list is option install on Android operating system.
+Tidus module list is option install on Android.
 
-Termina module list is option install on Android operating system.
+Tool module list is option install on Android.
+
+Module module list is option install on Android.
+
+Termina module list is option install on Android.
 
 Android mobile machine touch screen rect is full rect.
 
