@@ -45,8 +45,7 @@ Tidus is One Module Environ.
 
 Class Lang is pre install on Windows operating system.
 
-Tidus module list is pre install
-on Windows operating system.
+Tidus module list is pre install on Windows operating system.
 
 Tool module list is pre install on Windows operating system.
 
