@@ -85,3 +85,7 @@ Tool module list is option install on Android operating system.
 Module module list is option install on Android operating system.
 
 Termina module list is option install on Android operating system.
+
+Android mobile machine touch screen rect is full rect.
+
+Android mobile machine touch screen rect is not occluded.
