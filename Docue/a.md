@@ -10,6 +10,8 @@ Class Lang is recommend tech stack in Praca.
 
 Class Lang is support tech stack in Praca.
 
+Class Lang major is endgame share by Praca.
+
 stand info tech has module environ.
 
 The module environ is Tidus.
