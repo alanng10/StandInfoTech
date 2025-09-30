@@ -45,29 +45,33 @@ Tidus is One Module Environ.
 
 Class Lang is pre install on Windows operating system.
 
-Tidus module list is pre install on Windows operating system.
+Class Lang is recommend tech stack on Windows.
 
-Tool module list is pre install on Windows operating system.
+Class Lang is support tech stack on Windows.
 
-Module module list is pre install on Windows operating system.
+Tidus module list is pre install on Windows.
 
-Termina module list is pre install on Windows operating system.
+Tool module list is pre install on Windows.
+
+Module module list is pre install on Windows.
+
+Termina module list is pre install on Windows.
 
 Tidus module list is recommend module list for
-Windows operating system.
+Windows.
 
 Tidus module list is support module list for
-Windows operating system.
+Windows.
 
 Windows Subsystem for Linux with Ubuntu is pre install on Windows operating
 system.
 
-The Ubuntu execution is present by default on Windows operating system.
+The Ubuntu execution is present by default on Windows.
 
 Windows base system component is place with Ubuntu Linux
 base system component.
 
-Windows operating system has Tool subsystem for Windows binary.
+Windows has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
 
