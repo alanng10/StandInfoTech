@@ -1,5 +1,11 @@
 # Stand Info Tech
 
+Class Lang is pre install on stand operating system.
+
+Class Lang is recommend tech stack on stand operating system.
+
+Class Lang is support tech stack on stand operating system.
+
 stand info tech has module environ.
 
 The module environ is Tidus.
