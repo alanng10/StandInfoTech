@@ -57,14 +57,11 @@ Module module list is pre install on Windows.
 
 Termina module list is pre install on Windows.
 
-Tidus module list is recommend module list for
-Windows.
+Tidus module list is recommend module list for Windows.
 
-Tidus module list is support module list for
-Windows.
+Tidus module list is support module list for Windows.
 
-Windows Subsystem for Linux with Ubuntu is pre install on Windows operating
-system.
+Windows Subsystem for Linux with Ubuntu is pre install on Windows.
 
 The Ubuntu execution is present by default on Windows.
 
