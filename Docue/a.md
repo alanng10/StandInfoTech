@@ -55,6 +55,8 @@ Tidus is recommend module environ.
 
 Tidus is One Module Environ.
 
+Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
+
 Class Lang is pre install on Windows operating system.
 
 Class Lang is recommend tech stack on Windows.
