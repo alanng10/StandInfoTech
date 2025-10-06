@@ -16,6 +16,8 @@ stand info tech has module environ.
 
 The module environ is Tidus.
 
+Tidus is for stand info tech.
+
 Tidus is desktop environment.
 
 Tidus cross dentop, laptop, tablet, mobile and serlon form factor.
