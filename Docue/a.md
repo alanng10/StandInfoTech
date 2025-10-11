@@ -103,6 +103,8 @@ Class Lang is support tech stack on Android.
 
 Tidus is pre install on Android.
 
+Tidus Program module list is preset alpha module on Android.
+
 Tidus module list is pre install on Android.
 
 Tool module list is option install on Android.
