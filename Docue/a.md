@@ -101,7 +101,9 @@ Class Lang is recommend tech stack on Android.
 
 Class Lang is support tech stack on Android.
 
-Tidus module list is option install on Android.
+Tidus is pre install on Android.
+
+Tidus module list is pre install on Android.
 
 Tool module list is option install on Android.
 
