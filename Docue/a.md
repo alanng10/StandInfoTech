@@ -93,8 +93,6 @@ Windows none storage write when done storage read operate.
 
 Windows continue to be stand desktop operating system.
 
-Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
-
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
@@ -112,3 +110,5 @@ Tool module list is option install on Android.
 Module module list is option install on Android.
 
 Termina module list is option install on Android.
+
+Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
