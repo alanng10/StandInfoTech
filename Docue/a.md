@@ -82,7 +82,7 @@ Tidus module list is support module list for Windows.
 
 Windows Subsystem for Linux with Ubuntu is pre install on Windows.
 
-The Ubuntu execution is present by default on Windows.
+The Ubuntu execute instant is present by default on Windows.
 
 Windows base system component is place with Ubuntu Linux
 base system component.
