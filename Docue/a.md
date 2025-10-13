@@ -63,6 +63,11 @@ Class Lang is recommend tech stack on Windows.
 
 Class Lang is support tech stack on Windows.
 
+Tidus is pre install on Windows.
+
+Tidus Program module list is preset alpha module on Windows.
+The preset xross is Windows execute instant start Class execute to start Program module.
+
 Tidus module list is pre install on Windows.
 
 Tool module list is pre install on Windows.
