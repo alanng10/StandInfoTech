@@ -26,6 +26,10 @@ ProgramFrame is most gain program frame.
 
 The View is attach to ProgramFrame through module View.Frame class Frame.
 
+1 instant only of class Frame is shown.
+
+The instant is execute only on Program main thread.
+
 The View area is entire ProgramFrame.
 
 The View is any view.
