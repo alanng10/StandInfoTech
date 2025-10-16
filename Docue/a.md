@@ -63,14 +63,6 @@ Class Lang is recommend tech stack on Windows.
 
 Class Lang is support tech stack on Windows.
 
-Class Lang System that is execute on Windows is System Windows.
-
-System Windows program is Program.
-
-Windows shown System Windows Program list ProgramFrame list in Running Apps screen.
-
-System Windows execute zero to multi instant of 1 module ref.
-
 Tidus is pre install on Windows.
 
 Tidus Program module list is preset alpha module on Windows.
