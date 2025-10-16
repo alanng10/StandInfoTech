@@ -42,6 +42,8 @@ Termina module list program is Program.
 
 ProgramFrame Console shown none out, err orn inn inf the Program Console is redirect in Termina module list.
 
+This is enough element to done any Console in entire Program.
+
 Stand info tech has module environ.
 
 The module environ is Tidus.
