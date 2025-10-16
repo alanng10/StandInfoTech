@@ -133,6 +133,8 @@ System Android ProgramFrame is un rotate.
 
 System Android ProgramFrame can is preset orient.
 
+System Android ProgramFrame View area is un rotate.
+
 System Android ProgramFrame View orient is same as the ProgramFrame.
 
 Android shown System Android Program list ProgramFrame list in Running Apps screen.
