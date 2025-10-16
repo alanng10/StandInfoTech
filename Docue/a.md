@@ -85,7 +85,7 @@ Class Lang System that is execute on Windows is System Windows.
 
 System Windows program is Program.
 
-Windows shown System Windows Program list ViewFrame list in Running Apps screen.
+Windows shown System Windows Program list ProgramFrame list in Running Apps screen.
 
 System Windows execute zero to multi instant of 1 module ref.
 
@@ -133,11 +133,7 @@ System Android ProgramFrame is un rotate.
 
 System Android ProgramFrame can is preset orient.
 
-System Android ViewFrame is un rotate.
-
-System Android ViewFrame can is preset orient.
-
-Android shown System Android Program list ViewFrame list in Running Apps screen.
+Android shown System Android Program list ProgramFrame list in Running Apps screen.
 
 System Android execute zero to multi instant of 1 module ref.
 
