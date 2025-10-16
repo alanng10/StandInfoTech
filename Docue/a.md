@@ -36,6 +36,8 @@ The View is any view.
 
 The View is set able.
 
+This is enough element to done any View Frame View in entire Program.
+
 Stand info tech has module environ.
 
 The module environ is Tidus.
