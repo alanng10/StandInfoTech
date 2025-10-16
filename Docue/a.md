@@ -65,17 +65,19 @@ Class Lang is support tech stack on Windows.
 
 Class Lang System that is execute on Windows is System Windows.
 
-System Windows program has program frame.
+System Windows program is Program.
 
-The program frame is full screen.
+Program has 1 ProgramFrame.
 
-The program shown console by default in program frame.
+ProgramFrame is full screen.
 
-The program shown zero to multi view frame in program frame.
+The program shown Console by default in ProgramFrame.
 
-The view frame is full screen.
+The program shown zero to multi ViewFrame in ProgramFrame.
 
-Windows shown System Windows program list view frame list in Running Apps screen.
+ViewFrame is full screen.
+
+Windows shown System Windows Program list ViewFrame list in Running Apps screen.
 
 System Windows execute zero to multi instant of 1 module ref.
 
@@ -117,17 +119,9 @@ Class Lang is support tech stack on Android.
 
 Class Lang System that is execute on Android is System Android.
 
-System Android program has program frame.
+System Android program is Program.
 
-The program frame is full screen.
-
-The program shown console by default in program frame.
-
-The program shown zero to multi view frame in program frame.
-
-The view frame is full screen.
-
-Android shown System Android program list view frame list in Running Apps screen.
+Android shown System Android Program list ViewFrame list in Running Apps screen.
 
 System Android execute zero to multi instant of 1 module ref.
 
