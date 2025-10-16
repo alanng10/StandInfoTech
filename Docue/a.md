@@ -12,38 +12,6 @@ Class Lang is support tech stack in Praca.
 
 Class Lang major is endgame share by Praca.
 
-Class Lang System program is Program.
-
-Program has 1 ProgramFrame.
-
-ProgramFrame is full screen only.
-
-ProgramFrame is most gain program frame.
-
-1 Program shown Console by default in it ProgramFrame.
-
-1 Program shown zero to 1 View in it ProgramFrame.
-
-The View is attach to ProgramFrame through module View.Frame class Frame.
-
-1 instant only of class Frame is shown.
-
-The instant is execute only on Program main thread.
-
-The View area is entire ProgramFrame.
-
-The View is any view.
-
-The View is set able.
-
-This is enough element to done any View Frame View in entire Program.
-
-Termina module list program is Program.
-
-ProgramFrame Console shown none out, err orn inn inf the Program Console is redirect in Termina module list.
-
-This is enough element to done any Console in entire Program.
-
 Stand info tech has module environ.
 
 The module environ is Tidus.
@@ -142,6 +110,36 @@ Class Lang is support tech stack on Android.
 Class Lang System that is execute on Android is System Android.
 
 System Android program is Program.
+
+Program has 1 ProgramFrame.
+
+ProgramFrame is full screen only.
+
+ProgramFrame is most gain program frame.
+
+1 Program shown Console by default in it ProgramFrame.
+
+1 Program shown zero to 1 View in it ProgramFrame.
+
+The View is attach to ProgramFrame through module View.Frame class Frame.
+
+1 instant only of class Frame is shown.
+
+The instant is execute only on Program main thread.
+
+The View area is entire ProgramFrame.
+
+The View is any view.
+
+The View is set able.
+
+This is enough element to done any View Frame View in entire Program.
+
+Termina module list program is Program.
+
+ProgramFrame Console shown none out, err orn inn inf the Program Console is redirect in Termina module list.
+
+This is enough element to done any Console in entire Program.
 
 System Android ProgramFrame is un rotate.
 
