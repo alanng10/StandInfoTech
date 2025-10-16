@@ -26,6 +26,10 @@ ProgramFrame is most gain program frame.
 
 The View area is entire ProgramFrame.
 
+The View is any view.
+
+The View is set able.
+
 Stand info tech has module environ.
 
 The module environ is Tidus.
