@@ -125,6 +125,10 @@ Class Lang System that is execute on Android is System Android.
 
 System Android program is Program.
 
+System Android ProgramFrame is un rotate.
+
+System Android ViewFrame is un rotate.
+
 Android shown System Android Program list ViewFrame list in Running Apps screen.
 
 System Android execute zero to multi instant of 1 module ref.
