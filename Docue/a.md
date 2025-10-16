@@ -135,6 +135,8 @@ The View is any view.
 
 The View is set able.
 
+Android shown System Android Program list ProgramFrame list in Running Apps screen.
+
 This is enough element to done any View Frame View in entire Program.
 
 Termina module list program is Program.
@@ -150,8 +152,6 @@ System Android ProgramFrame can is preset orient.
 System Android ProgramFrame View orient is un rotate.
 
 System Android ProgramFrame View orient is same as the ProgramFrame.
-
-Android shown System Android Program list ProgramFrame list in Running Apps screen.
 
 Tidus is pre install on Android.
 
