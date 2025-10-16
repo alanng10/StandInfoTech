@@ -67,9 +67,13 @@ Class Lang System that is execute on Windows is System Windows.
 
 System Windows program has program frame.
 
+The program frame is full screen.
+
 The program shown console by default in program frame.
 
 The program shown zero to multi view frame in program frame.
+
+The view frame is full screen.
 
 Windows shown System Windows program list view frame list in Running Apps screen.
 
@@ -115,9 +119,13 @@ Class Lang System that is execute on Android is System Android.
 
 System Android program has program frame.
 
+The program frame is full screen.
+
 The program shown console by default in program frame.
 
 The program shown zero to multi view frame in program frame.
+
+The view frame is full screen.
 
 Android shown System Android program list view frame list in Running Apps screen.
 
