@@ -22,11 +22,9 @@ ProgramFrame is most gain program frame.
 
 1 Program shown Console by default in it ProgramFrame.
 
-1 Program shown zero to multi ViewFrame in it ProgramFrame.
+1 Program shown zero to 1 View in it ProgramFrame.
 
-ViewFrame is full screen only.
-
-ViewFrame is most gain view frame.
+The View area is entire ProgramFrame.
 
 stand info tech has module environ.
 
