@@ -12,6 +12,22 @@ Class Lang is support tech stack in Praca.
 
 Class Lang major is endgame share by Praca.
 
+Class Lang System program is Program.
+
+Program has 1 ProgramFrame.
+
+ProgramFrame is full screen only.
+
+ProgramFrame is most gain program frame.
+
+The program shown Console by default in ProgramFrame.
+
+The program shown zero to multi ViewFrame in ProgramFrame.
+
+ViewFrame is full screen only.
+
+ViewFrame is most gain view frame.
+
 stand info tech has module environ.
 
 The module environ is Tidus.
@@ -66,20 +82,6 @@ Class Lang is support tech stack on Windows.
 Class Lang System that is execute on Windows is System Windows.
 
 System Windows program is Program.
-
-Program has 1 ProgramFrame.
-
-ProgramFrame is full screen only.
-
-ProgramFrame is most gain program frame.
-
-The program shown Console by default in ProgramFrame.
-
-The program shown zero to multi ViewFrame in ProgramFrame.
-
-ViewFrame is full screen only.
-
-ViewFrame is most gain view frame.
 
 Windows shown System Windows Program list ViewFrame list in Running Apps screen.
 
