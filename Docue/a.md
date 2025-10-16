@@ -24,6 +24,8 @@ ProgramFrame is most gain program frame.
 
 1 Program shown zero to 1 View in it ProgramFrame.
 
+The View is attach to ProgramFrame through module View.Frame class Frame.
+
 The View area is entire ProgramFrame.
 
 The View is any view.
