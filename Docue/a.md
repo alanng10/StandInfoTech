@@ -106,6 +106,14 @@ Class Lang is recommend tech stack on Android.
 
 Class Lang is support tech stack on Android.
 
+Class Lang that is execute on Android is System Android.
+
+System Android program has program frame.
+
+The program shown console by default in program frame.
+
+The program shown zero to multi view frame in program frame.
+
 Tidus is pre install on Android.
 
 Tidus Program module list is preset alpha module on Android.
