@@ -116,6 +116,8 @@ The program shown zero to multi view frame in program frame.
 
 Android shown System Android program list view frame list in Running Apps screen.
 
+System Android execute none more than 1 instant of 1 module ref.
+
 Tidus is pre install on Android.
 
 Tidus Program module list is preset alpha module on Android.
