@@ -49,6 +49,16 @@ that is their label name appended with "Tool" word.
 
 Tidus module list view support the form factors.
 
+Tidus View module list Frame is full screen only.
+
+Tidus View module list Frame is shown 1 instant only.
+
+The instant is execute only on Class Lang System execute instant main thread.
+
+This is enough element to done any View Frame View in entire execute instant.
+
+Module View.Frame class Frame is most gain view frame.
+
 Tidus is pre install on stand operating system.
 
 Tidus is module environ for stand study and work.
