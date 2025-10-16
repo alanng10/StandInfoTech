@@ -57,7 +57,7 @@ The instant is execute only on Class Lang System execute instant main thread.
 
 This is enough element to done any View Frame View in entire execute instant.
 
-Module View.Frame class Frame is most gain view frame.
+Tidus View module list Frame is most gain view frame.
 
 Tidus is pre install on stand operating system.
 
