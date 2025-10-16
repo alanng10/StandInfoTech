@@ -99,6 +99,13 @@ base system component.
 
 Windows base system execute instant is place with Ubuntu Linux execute instant.
 
+Windows has Tool subsystem for Windows binary.
+
+The subsystem is none command prompt window when the tool is launch.
+
+Termina display console for the tool when the tool is execute in
+Termina.
+
 Windows none storage write when done storage read operate.
 
 Windows continue to be stand desktop operating system.
