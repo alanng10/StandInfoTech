@@ -145,10 +145,10 @@ Tidus Program module list is preset alpha module on Android.
 
 Tidus module list is pre install on Android.
 
-Tool module list is option install on Android.
+Tool module list is pre install on Android.
 
-Module module list is option install on Android.
+Module module list is pre install on Android.
 
-Termina module list is option install on Android.
+Termina module list is pre install on Android.
 
 Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
