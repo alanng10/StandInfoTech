@@ -127,7 +127,11 @@ System Android program is Program.
 
 System Android ProgramFrame is un rotate.
 
+System Android ProgramFrame can is preset orient.
+
 System Android ViewFrame is un rotate.
+
+System Android ViewFrame can is preset orient.
 
 Android shown System Android Program list ViewFrame list in Running Apps screen.
 
