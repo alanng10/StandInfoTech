@@ -69,13 +69,13 @@ System Windows program is Program.
 
 Program has 1 ProgramFrame.
 
-ProgramFrame is full screen.
+ProgramFrame is full screen only.
 
 The program shown Console by default in ProgramFrame.
 
 The program shown zero to multi ViewFrame in ProgramFrame.
 
-ViewFrame is full screen.
+ViewFrame is full screen only.
 
 Windows shown System Windows Program list ViewFrame list in Running Apps screen.
 
