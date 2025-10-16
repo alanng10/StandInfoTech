@@ -114,6 +114,8 @@ The program shown console by default in program frame.
 
 The program shown zero to multi view frame in program frame.
 
+Android shown System Android program list view frame list in Running Apps screen.
+
 Tidus is pre install on Android.
 
 Tidus Program module list is preset alpha module on Android.
