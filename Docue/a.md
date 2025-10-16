@@ -71,11 +71,15 @@ Program has 1 ProgramFrame.
 
 ProgramFrame is full screen only.
 
+ProgramFrame is most gain program frame.
+
 The program shown Console by default in ProgramFrame.
 
 The program shown zero to multi ViewFrame in ProgramFrame.
 
 ViewFrame is full screen only.
+
+ViewFrame is most gain view frame.
 
 Windows shown System Windows Program list ViewFrame list in Running Apps screen.
 
