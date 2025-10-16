@@ -106,7 +106,7 @@ Class Lang is recommend tech stack on Android.
 
 Class Lang is support tech stack on Android.
 
-Class Lang that is execute on Android is System Android.
+Class Lang System that is execute on Android is System Android.
 
 System Android program has program frame.
 
