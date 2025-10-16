@@ -109,6 +109,8 @@ Class Lang is support tech stack on Android.
 
 Class Lang System that is execute on Android is System Android.
 
+System Android execute zero to multi instant of 1 module ref.
+
 System Android program is Program.
 
 Program has 1 ProgramFrame.
@@ -150,8 +152,6 @@ System Android ProgramFrame View orient is un rotate.
 System Android ProgramFrame View orient is same as the ProgramFrame.
 
 Android shown System Android Program list ProgramFrame list in Running Apps screen.
-
-System Android execute zero to multi instant of 1 module ref.
 
 Tidus is pre install on Android.
 
