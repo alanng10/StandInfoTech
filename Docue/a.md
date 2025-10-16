@@ -20,9 +20,9 @@ ProgramFrame is full screen only.
 
 ProgramFrame is most gain program frame.
 
-The program shown Console by default in ProgramFrame.
+1 Program shown Console by default in it ProgramFrame.
 
-The program shown zero to multi ViewFrame in ProgramFrame.
+1 Program shown zero to multi ViewFrame in it ProgramFrame.
 
 ViewFrame is full screen only.
 
