@@ -63,6 +63,18 @@ Class Lang is recommend tech stack on Windows.
 
 Class Lang is support tech stack on Windows.
 
+Class Lang System that is execute on Windows is System Windows.
+
+System Windows program has program frame.
+
+The program shown console by default in program frame.
+
+The program shown zero to multi view frame in program frame.
+
+Windows shown System Windows program list view frame list in Running Apps screen.
+
+System Windows execute zero to multi instant of 1 module ref.
+
 Tidus is pre install on Windows.
 
 Tidus Program module list is preset alpha module on Windows.
@@ -88,13 +100,6 @@ Windows base system component is place with Ubuntu Linux
 base system component.
 
 Windows base system execute instant is place with Ubuntu Linux execute instant.
-
-Windows has Tool subsystem for Windows binary.
-
-The subsystem is none command prompt window when the tool is launch.
-
-Termina display console for the tool when the tool is execute in
-Termina.
 
 Windows none storage write when done storage read operate.
 
