@@ -40,6 +40,8 @@ This is enough element to done any View Frame View in entire Program.
 
 Termina module list program is Program.
 
+ProgramFrame Console shown same inf the Program Console is redirect in Termina module list.
+
 Stand info tech has module environ.
 
 The module environ is Tidus.
