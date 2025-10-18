@@ -179,3 +179,5 @@ Termina module list is pre install on Android.
 Android none storage write when done storage read operate.
 
 Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
+
+Git keep fold mod record.
