@@ -59,6 +59,8 @@ This is enough element to done any View Frame View in entire execute instant.
 
 Tidus View module list Frame is most gain view frame.
 
+Tidus Version module list keep fold mod record.
+
 Tidus is pre install on stand operating system.
 
 Tidus is module environ for stand study and work.
@@ -180,4 +182,4 @@ Android none storage write when done storage read operate.
 
 Stand info tech aria font alpha nite "I" is diff enough from alpha site "l".
 
-Git keep fold mod record.
+Git is place with Version module list.
