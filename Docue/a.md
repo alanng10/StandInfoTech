@@ -38,6 +38,8 @@ Tidus has execute certain class.
 
 Tidus module list has execute certain class.
 
+Tidus and it module list execute certain class option is operate tier info.
+
 Tidus has Tool module list.
 
 Tidus has Module module list.
