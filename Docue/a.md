@@ -94,6 +94,10 @@ Tidus module list is recommend module list for Windows.
 
 Tidus module list is support module list for Windows.
 
+Windows is Open Source.
+
+Windows Open Source is prusate.
+
 Windows has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
