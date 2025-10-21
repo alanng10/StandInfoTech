@@ -94,15 +94,6 @@ Tidus module list is recommend module list for Windows.
 
 Tidus module list is support module list for Windows.
 
-Windows Subsystem for Linux with Ubuntu is pre install on Windows.
-
-The Ubuntu execute instant is present by default on Windows.
-
-Windows base system component is place with Ubuntu Linux
-base system component.
-
-Windows base system execute instant is place with Ubuntu Linux execute instant.
-
 Windows has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
