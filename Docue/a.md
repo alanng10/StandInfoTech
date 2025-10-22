@@ -41,7 +41,7 @@ Tidus View module list Frame is full screen only.
 
 Tidus View module list Frame is shown 1 instant only.
 
-The instant is execute only on Class Lang System execute instant main thread.
+The instant is execute only on JVM execute instant main thread.
 
 This is enough element to done any View Frame View in entire execute instant.
 
