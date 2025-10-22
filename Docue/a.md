@@ -1,17 +1,5 @@
 # Stand Info Tech
 
-Class Lang is pre install on stand operating system.
-
-Class Lang is recommend tech stack on stand operating system.
-
-Class Lang is support tech stack on stand operating system.
-
-Class Lang is recommend tech stack in Praca.
-
-Class Lang is support tech stack in Praca.
-
-Class Lang major is endgame share by Praca.
-
 Stand info tech has module environ.
 
 The module environ is Tidus.
@@ -22,15 +10,13 @@ Tidus is desktop environment.
 
 Tidus cross dentop, laptop, tablet, mobile and serlon form factor.
 
-Tidus require Class Lang.
+Tidus require Java.
 
 Tidus support the form factors type kind.
 
 Tidus is open source.
 
-Tidus license is same as Class Lang.
-
-Tidus is written in Class Lang.
+Tidus is written in Java.
 
 Tidus module list is cross platform.
 
