@@ -86,6 +86,7 @@ The Ubuntu execute instant is present by default on Windows.
 
 Windows base system component is place with Ubuntu Linux
 base system component.
+The place is done part by part.
 
 Windows base system execute instant is place with Ubuntu Linux execute instant.
 
