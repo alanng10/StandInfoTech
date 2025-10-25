@@ -88,6 +88,8 @@ Windows Linux is base on Ubuntu Linux base system.
 
 Windows is release with Windows Linux in it.
 
+Windows default execute instant is Windows Linux execute instant.
+
 Windows has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
