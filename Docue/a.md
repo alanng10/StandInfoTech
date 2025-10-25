@@ -136,6 +136,8 @@ Stand info tech is fragmen too long inf Windows is need for too long and Windows
 
 Stand info tech is fragmen too long inf Windows is need for too long and Windows is not recommend.
 
+Stand info tech is fragmen too long inf Windows is need for too long and Windows is Page rem.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
