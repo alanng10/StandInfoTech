@@ -84,7 +84,8 @@ Windows Linux is Linux system in Windows.
 
 Windows with Windows Linux has Linux execute instant by default.
 
-Windows Linux is base on Ubuntu Linux base system.
+Windows Linux is base on Ubuntu Linux base system as Ubuntu Linux
+is Big Data capable and Client Inter capable.
 
 Windows is release with Windows Linux in it.
 
