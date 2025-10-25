@@ -169,6 +169,8 @@ Inf ChromeOS is recommend for premium tool, market need more element sure establ
 
 Inf ChromeOS is recommend for high end tool, market need some more element sure establish.
 
+Inf ChromeOS is recommend for a domain, market need more element sure establish.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
