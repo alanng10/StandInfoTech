@@ -88,6 +88,10 @@ Windows Linux is base on Linux base system.
 
 Windows Linux is video game capable.
 
+Windows Linux is recommend develop binary execute instant for dentop and laptop machine.
+
+Windows Linux is support develop binary execute instant for dentop and laptop machine.
+
 Windows is release with Windows Linux in it.
 
 Windows default execute instant is Windows Linux execute instant.
