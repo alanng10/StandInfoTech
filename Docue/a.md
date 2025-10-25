@@ -123,6 +123,8 @@ The recommend has more high sale worth inf it continue to be Windows.
 
 The recommend has more high economy worth inf it continue to be Windows.
 
+Stand info tech has more under economy worth inf stand desktop operating system is un One.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
