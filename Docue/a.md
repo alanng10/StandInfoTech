@@ -159,6 +159,8 @@ Windows specify Tool will cause fragmen for too long, inf Windows is Page rem.
 
 Windows specify Tool will cause fragmen for too long, inf ChromeOS is recommend.
 
+Market is still more sure of Windows for long, inf ChromeOS is recommend.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
