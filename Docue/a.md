@@ -147,6 +147,8 @@ Windows is not Page rem worth enough inf Tidus module infra is on stand info tec
 
 Windows is not Page rem worth enough as Tidus module infra is Xross on plat.
 
+Windows is not Page rem worth enough as Tidus is Xross on plat.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
