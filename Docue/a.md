@@ -80,26 +80,6 @@ Tidus module list is recommend module list for Windows.
 
 Tidus module list is support module list for Windows.
 
-Windows Linux is Linux system in Windows.
-
-Windows with Windows Linux has Linux execute instant by default.
-
-Windows Linux is base on Linux base system.
-
-Windows Linux is video game capable.
-
-Windows Linux is recommend develop binary execute instant for dentop and laptop machine.
-
-Windows Linux is support develop binary execute instant for dentop and laptop machine.
-
-Class Lang is recommend tech stack on Windows Linux.
-
-Class Lang is support tech stack on Windows Linux.
-
-Windows is release with Windows Linux in it.
-
-Windows default execute instant is Windows Linux execute instant.
-
 Windows has Tool subsystem for Windows binary.
 
 The subsystem is none command prompt window when the tool is launch.
