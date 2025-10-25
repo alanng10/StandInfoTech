@@ -86,6 +86,8 @@ Windows with Windows Linux has Linux execute instant by default.
 
 Windows Linux is base on Linux base system.
 
+Windows Linux is video game capable.
+
 Windows is release with Windows Linux in it.
 
 Windows default execute instant is Windows Linux execute instant.
