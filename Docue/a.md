@@ -165,6 +165,8 @@ Windows is more element sure establish, than ChromeOS.
 
 Inf ChromeOS is recommend, market need base element sure establish.
 
+Inf ChromeOS is recommend for premium tool, market need more element sure establish.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
