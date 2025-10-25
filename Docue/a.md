@@ -134,6 +134,8 @@ Stand info tech is fragmen too long inf ChromeOS is recommend as Windows is need
 
 Stand info tech is fragmen too long inf Windows is need for too long and Windows is not the One.
 
+Stand info tech is fragmen too long inf Windows is need for too long and Windows is not recommend.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
