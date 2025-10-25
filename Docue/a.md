@@ -173,6 +173,8 @@ Inf ChromeOS is recommend for a domain, market need more element sure establish.
 
 ChromeOS word is mark enough word for the operating system class.
 
+ChromeOS word is mark enough word for the operating system class in it market pos.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
