@@ -128,6 +128,8 @@ Stand info tech has more under economy worth inf stand desktop operating system 
 Stand info tech has some what high economy worth in desktop as stand desktop operating system
 is some what One.
 
+Stand info tech is fragmen too long inf ChromeOS is recommend.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
