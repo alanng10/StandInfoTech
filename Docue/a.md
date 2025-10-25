@@ -141,6 +141,8 @@ Stand info tech is fragmen too long inf Windows is need for too long and Windows
 Stand info tech is fragmen too long inf Windows is need for too long and Windows is Page rem
 and Windows is not Page rem worth enough.
 
+Stand info tech is fragmen too long inf Tidus module infra is un tool.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
