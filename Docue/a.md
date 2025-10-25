@@ -130,6 +130,8 @@ is some what One.
 
 Stand info tech is fragmen too long inf ChromeOS is recommend.
 
+Stand info tech is fragmen too long inf ChromeOS is recommend as Windows is need for too long.
+
 Class Lang is pre install on Android operating system.
 
 Class Lang is recommend tech stack on Android.
