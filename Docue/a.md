@@ -109,9 +109,9 @@ Termina.
 
 Windows none storage write when done storage read operate.
 
-Windows continue to be stand desktop operating system.
+Windows is current stand desktop operating system.
 
-Windows continue to be recommend desktop operating system.
+Windows is current recommend desktop operating system.
 
 The recommend is too much inertia in market to is mod.
 
