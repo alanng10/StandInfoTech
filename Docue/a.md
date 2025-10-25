@@ -92,9 +92,9 @@ Windows Linux is recommend develop binary execute instant for dentop and laptop 
 
 Windows Linux is support develop binary execute instant for dentop and laptop machine.
 
-Class Lang is recommend program lang on Windows Linux.
+Class Lang is recommend tech stack on Windows Linux.
 
-Class Lang is support program lang on Windows Linux.
+Class Lang is support tech stack on Windows Linux.
 
 Windows is release with Windows Linux in it.
 
